@@ -14,8 +14,11 @@ Excercise 1,2,3 implemented in PR2_pickplace.py python script which you can refe
 #### 1. Complete Exercise 1 steps. Pipeline for filtering and RANSAC plane fitting implemented.
 Implemented in the following order to the raw pointcloud data :
 1-Statistical Outlier Filtering, with a set mean equal to 10 and standard deviation threshold equal to 0.001
+
 2-Voxel grid downsampling with a leaf size equal to 0.01
+
 3-A passthrough filter was implement, Z axis between 0.45 and 0.85, X axis between 0.33 and 0.9
+
 4-RANSAC filtering was implemented with a maximuim distance of 0.01
 #### 2. Complete Exercise 2 steps: Pipeline including clustering for segmentation implemented.  
 
