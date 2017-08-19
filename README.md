@@ -31,7 +31,7 @@ Clustering was preformed with the following parameters taken into consideration 
 
 
 
-Cluster Tolerance | Min Cluster Size | Max Cluster Size
+Parameters |Cluster Tolerance | Min Cluster Size | Max Cluster Size
 --- | --- | --- | ---
 1 | 0.05 | 50 | 200,000
 
