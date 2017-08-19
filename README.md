@@ -17,6 +17,13 @@ You're reading it!
 [image3]: ./Images/accuracy.png
 [image4]: ./Images/with_norm.png
 [image5]: ./Images/without_norm.png
+[image6]: ./Images/world1_1.png
+[image7]: ./Images/world1_2.png
+[image8]: ./Images/world2_1.png
+[image9]: ./Images/world2_2.png
+[image10]: ./Images/world3_1.png
+[image11]: ./Images/world3_2.png
+
 
 ### Exercise 1, 2 and 3 pipeline implemented
 Excercise 1,2,3 implemented in '**PR2_pickplace.py**' python script which you can refer.
@@ -69,11 +76,28 @@ The robot sucessfully identified :
 
 -3 out of 3 objects in world 1 
 
+![alt text][image6]
+
+
+![alt text][image7]
+
+
 -4 out of 5 objects in world 2 ( The robot kept mislabeling the book for soap)
+
+
+![alt text][image8]
+
+
+![alt text][image9]
 
 -8 out of 8 onjects in world 3
 
-As a result the project was succeffuly future work will include improving accuracy to fully recognize all object in world 2 and to complete the challenge (which unfortunately I could not complete due to lack of time ) 
+![alt text][image10]
+
+
+![alt text][image11]
+
+As a result the project was successfuly future work will include improving accuracy to fully recognize all object in world 2 and to complete the challenge (which unfortunately I could not complete due to lack of time ) 
 
 
 
