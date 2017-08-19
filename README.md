@@ -29,7 +29,6 @@ Implemented in the following order to the raw pointcloud data :
 #### 2. Complete Exercise 2 steps: Pipeline including clustering for segmentation implemented.  
 Clustering was preformed with the following parameters taken into consideration : 
 
-
 Cluster Tolerance | Min Cluster Size | Max Cluster Size
 --- | --- | --- | ---
 1 | 0.05 | 50 | 200,000
