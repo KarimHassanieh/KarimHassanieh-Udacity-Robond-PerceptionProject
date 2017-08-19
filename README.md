@@ -11,7 +11,7 @@ You're reading it!
 [//]: # (Image References)
 
 [image1]: ./Images/clusterd2.png
-
+[image2]: ./Images/clusterd1.png
 
 
 ### Exercise 1, 2 and 3 pipeline implemented
@@ -30,6 +30,7 @@ Implemented in the following order to the raw pointcloud data :
 Clustering 
 
 ![alt text][image1]
+![alt text][image2]
 
 #### 2. Complete Exercise 3 Steps.  Features extracted and SVM trained.  Object recognition implemented.
 Here is an example of how to include an image in your writeup.
