@@ -47,7 +47,7 @@ The following images are the results obtained :
 ![alt text][image2]
 
 #### 2. Complete Exercise 3 Steps.  Features extracted and SVM trained.  Object recognition implemented.
-Features were extracted and trained using linear SVM model. 100 orientation were used to train the model (you may refer to capture_features.py and features.py for the code implentation . Below are the results obtained : 
+Features were extracted and trained using linear SVM model. 100 orientation were used to train the model (you may refer to capture_features.py and features.py for the code implentation . Below are the results obtained , the model had 83% accuracy : 
 
 ![alt text][image3]
 
@@ -55,14 +55,23 @@ Features were extracted and trained using linear SVM model. 100 orientation were
 
 ![alt text][image5]
 
+
+
 ### Pick and Place Setup
 
 #### 1. For all three tabletop setups (`test*.world`), perform object recognition, then read in respective pick list (`pick_list_*.yaml`). Next construct the messages that would comprise a valid `PickPlace` request output them to `.yaml` format.
 
-And here's another image! 
-![demo-2](https://user-images.githubusercontent.com/20687560/28748286-9f65680e-7468-11e7-83dc-f1a32380b89c.png)
+Message in yaml format are found in "output folder". 
 
-Spend some time at the end to discuss your code, what techniques you used, what worked and why, where the implementation might fail and how you might improve it if you were going to pursue this project further.  
+The robot succufully identified :
+
+-3 out of 3 objects in world 1 
+-4 out of 5 objects in world 2 ( The robot kept mislabeling the book for soap)
+-8 out of 8 onjects in world 3
+
+As a result the project was succeffuly future work will include improving accuracy to fully recognize all object in world 2 and to complete the challenge (which unfortunately I could not complete due to lack of time ) 
+
+
 
 
 
