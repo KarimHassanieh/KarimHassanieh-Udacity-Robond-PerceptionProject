@@ -90,7 +90,7 @@ The robot sucessfully identified :
 
 ![alt text][image9]
 
--8 out of 8 onjects in world 3
+-8 out of 8 objects in world 3
 
 ![alt text][image10]
 
