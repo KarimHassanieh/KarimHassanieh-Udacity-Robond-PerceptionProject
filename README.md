@@ -49,7 +49,7 @@ The following images are the results obtained :
 ![alt text][image2]
 
 #### 2. Complete Exercise 3 Steps.  Features extracted and SVM trained.  Object recognition implemented.
-Features were extracted and trained using linear SVM model. 100 orientation were used to train the model (you may refer to capture_features.py and features.py for the code implentation . Below are the results obtained , the model had 83% accuracy : 
+Features were extracted and trained using linear SVM model. 100 orientation were used to train the model (you may refer to capture_features.py and features.py for the code implentation ) . Below are the results obtained , the model had 83% accuracy : 
 
 ![alt text][image3]
 
