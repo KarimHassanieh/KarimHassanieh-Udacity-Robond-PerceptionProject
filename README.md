@@ -12,7 +12,9 @@ You're reading it!
 
 [image1]: ./Images/clusterd2.png
 [image2]: ./Images/clustered1.png
-
+[image3]: ./Images/accuracy.png
+[image4]: ./Images/with_norm.png
+[image5]: ./Images/without_norm.png
 
 ### Exercise 1, 2 and 3 pipeline implemented
 Excercise 1,2,3 implemented in '**PR2_pickplace.py**' python script which you can refer.
@@ -38,26 +40,20 @@ Clustering was preformed with the following parameters taken into consideration 
 
 
 
-The following images are the results obtained
+The following images are the results obtained :
 
 ![alt text][image1]
+
 ![alt text][image2]
 
 #### 2. Complete Exercise 3 Steps.  Features extracted and SVM trained.  Object recognition implemented.
-Here is an example of how to include an image in your writeup.
+Features were extracted and trained using linear SVM model. 100 orientation were used to train the model (you may refer to capture_features.py and features.py for the code implentation . Below are the results obtained : 
 
-![demo-1](https://user-images.githubusercontent.com/20687560/28748231-46b5b912-7467-11e7-8778-3095172b7b19.png)
+![alt text][image3]
 
+![alt text][image4]
 
-
-
-Here's | A | Snappy | Table
---- | --- | --- | ---
-1 | `highlight` | **bold** | 7.41
-2 | a | b | c
-3 | *italic* | text | 403
-4 | 2 | 3 | abcd
-
+![alt text][image5]
 
 ### Pick and Place Setup
 
