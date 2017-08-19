@@ -8,6 +8,8 @@
 #### 1. Provide a Writeup / README that includes all the rubric points and how you addressed each one.  You can submit your writeup as markdown or pdf.  
 
 You're reading it!
+
+
 [//]: # (Image References)
 
 [image1]: ./Images/clusterd2.png
