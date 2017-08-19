@@ -8,6 +8,11 @@
 #### 1. Provide a Writeup / README that includes all the rubric points and how you addressed each one.  You can submit your writeup as markdown or pdf.  
 
 You're reading it!
+[//]: # (Image References)
+
+[image1]: ./Images/clusterd2.png
+
+
 
 ### Exercise 1, 2 and 3 pipeline implemented
 Excercise 1,2,3 implemented in '**PR2_pickplace.py**' python script which you can refer.
@@ -22,6 +27,9 @@ Implemented in the following order to the raw pointcloud data :
 
 4-RANSAC filtering was implemented with a maximuim distance of 0.01
 #### 2. Complete Exercise 2 steps: Pipeline including clustering for segmentation implemented.  
+Clustering 
+
+![alt text][image1]
 
 #### 2. Complete Exercise 3 Steps.  Features extracted and SVM trained.  Object recognition implemented.
 Here is an example of how to include an image in your writeup.
