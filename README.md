@@ -65,7 +65,7 @@ Features were extracted and trained using linear SVM model. 100 orientation were
 
 Message in yaml format are found in "output folder". 
 
-The robot succufully identified :
+The robot sucessfully identified :
 
 -3 out of 3 objects in world 1 
 
