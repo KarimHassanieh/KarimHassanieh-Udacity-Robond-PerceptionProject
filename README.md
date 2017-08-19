@@ -11,7 +11,7 @@ You're reading it!
 [//]: # (Image References)
 
 [image1]: ./Images/clusterd2.png
-[image2]: ./Images/clusterd1.png
+[image2]: ./Images/clustered1.png
 
 
 ### Exercise 1, 2 and 3 pipeline implemented
