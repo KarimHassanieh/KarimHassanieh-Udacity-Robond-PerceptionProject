@@ -68,7 +68,9 @@ Message in yaml format are found in "output folder".
 The robot succufully identified :
 
 -3 out of 3 objects in world 1 
+
 -4 out of 5 objects in world 2 ( The robot kept mislabeling the book for soap)
+
 -8 out of 8 onjects in world 3
 
 As a result the project was succeffuly future work will include improving accuracy to fully recognize all object in world 2 and to complete the challenge (which unfortunately I could not complete due to lack of time ) 
